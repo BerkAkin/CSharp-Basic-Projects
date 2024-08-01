@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\ref\DaireCizme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\bin\Debug\net5.0\DaireCizme.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\ref\DaireCizme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\DaireCizme\obj\Debug\net5.0\DaireCizme.genruntimeconfig.cache
