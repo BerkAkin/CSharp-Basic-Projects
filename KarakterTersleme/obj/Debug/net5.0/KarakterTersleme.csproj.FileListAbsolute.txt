@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\ref\KarakterTersleme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\bin\Debug\net5.0\KarakterTersleme.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\ref\KarakterTersleme.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterTersleme\obj\Debug\net5.0\KarakterTersleme.genruntimeconfig.cache
