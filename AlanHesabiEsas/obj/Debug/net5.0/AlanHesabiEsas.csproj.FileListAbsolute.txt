@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\ref\AlanHesabiEsas.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\bin\Debug\net5.0\AlanHesabiEsas.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\ref\AlanHesabiEsas.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\AlanHesabiEsas\obj\Debug\net5.0\AlanHesabiEsas.genruntimeconfig.cache
