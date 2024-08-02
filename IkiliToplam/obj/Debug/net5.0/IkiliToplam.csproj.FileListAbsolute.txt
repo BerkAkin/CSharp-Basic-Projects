@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\ref\IkiliToplam.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\bin\Debug\net5.0\IkiliToplam.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\ref\IkiliToplam.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\IkiliToplam\obj\Debug\net5.0\IkiliToplam.genruntimeconfig.cache
