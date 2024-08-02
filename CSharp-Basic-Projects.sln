@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterTersleme", "KarakterTersleme\KarakterTersleme.csproj", "{A8D85000-44D3-4EE2-972F-F9F6C20C9838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesabiEsas", "AlanHesabiEsas\AlanHesabiEsas.csproj", "{BFEA9E01-6607-4913-B334-65F42675E241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A8D85000-44D3-4EE2-972F-F9F6C20C9838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8D85000-44D3-4EE2-972F-F9F6C20C9838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8D85000-44D3-4EE2-972F-F9F6C20C9838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEA9E01-6607-4913-B334-65F42675E241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEA9E01-6607-4913-B334-65F42675E241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEA9E01-6607-4913-B334-65F42675E241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEA9E01-6607-4913-B334-65F42675E241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
