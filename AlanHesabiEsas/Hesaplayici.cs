@@ -12,11 +12,11 @@ namespace AlanHesabiEsas
             }
             else if (metot.Equals("cevre"))
             {
-                Console.WriteLine("Alan: " + sekil.CevreHesapla());
+                Console.WriteLine("Cevre: " + sekil.CevreHesapla());
             }
             else
             {
-                Console.WriteLine("Alan: " + sekil.HacimHesapla());
+                Console.WriteLine("Hacim: " + sekil.HacimHesapla());
             }
         }
     }
