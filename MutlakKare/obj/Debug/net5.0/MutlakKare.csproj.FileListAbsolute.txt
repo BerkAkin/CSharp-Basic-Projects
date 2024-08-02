@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\ref\MutlakKare.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\bin\Debug\net5.0\MutlakKare.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\ref\MutlakKare.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\MutlakKare\obj\Debug\net5.0\MutlakKare.genruntimeconfig.cache
