@@ -6,7 +6,7 @@ namespace AlanHesabiEsas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Şekil Seçin (Daire,Üçgen,Kare,Dikdörtgen)");
+            Console.WriteLine("Şekil Seçin (Daire,Ucgen,Kare,Dikdortgen)");
             string sekilSecim = Console.ReadLine().ToLower();
             Sekil sekil = null;
 
@@ -17,14 +17,14 @@ namespace AlanHesabiEsas
                     double yaricap = Convert.ToDouble(Console.ReadLine());
                     sekil = new Daire(yaricap);
                     break;
-                case "üçgen":
+                case "ucgen":
                     Console.WriteLine("Kenar Uzunluğu Girin:");
                     double kenarUcgen = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("Kenar Uzunluğu Girin:");
+                    Console.WriteLine("Yükseklik Girin:");
                     double yukseklikUcgen = Convert.ToDouble(Console.ReadLine());
                     sekil = new Ucgen(kenarUcgen, yukseklikUcgen);
                     break;
-                case "dikdörtgen":
+                case "dikdortgen":
                     Console.WriteLine("Uzun Kenar Girin");
                     double uzunDik = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Kısa Kenar Girin");
@@ -38,6 +38,10 @@ namespace AlanHesabiEsas
                     double kenarKare = Convert.ToDouble(Console.ReadLine());
                     sekil = new Kare(kenarKare);
                     break;
+                default:
+                    Console.WriteLine("Hata");
+                    break;
+
             }
 
             Console.WriteLine("Hesaplama Seçin (Alan,Hacim,Çevre)");
