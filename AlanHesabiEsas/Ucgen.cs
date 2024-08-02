@@ -13,7 +13,8 @@ namespace AlanHesabiEsas
         }
         public override double AlanHesapla()
         {
-            return ((this.Kenar * this.Kenar) * Math.Sqrt(3)) / 4;
+            double alan = (Math.Pow(this.Kenar, 2) * Math.Sqrt(3)) / 4;
+            return alan;
         }
         public override double CevreHesapla()
         {
