@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj": {}
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj": {
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj",
+        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj",
         "projectName": "AlanHesabiEsas",
-        "projectPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj",
+        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\AlanHesabiEsas.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\obj\\",
+        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\AlanHesabiEsas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

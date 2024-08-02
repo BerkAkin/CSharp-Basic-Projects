@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesabiEsas", "AlanHesab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiliToplam", "IkiliToplam\IkiliToplam.csproj", "{E2F54854-26B0-4DD0-AD37-1BB3D3E53B9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKare", "MutlakKare\MutlakKare.csproj", "{BA60632C-6B11-4715-AED7-C36836EFAD17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E2F54854-26B0-4DD0-AD37-1BB3D3E53B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F54854-26B0-4DD0-AD37-1BB3D3E53B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F54854-26B0-4DD0-AD37-1BB3D3E53B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA60632C-6B11-4715-AED7-C36836EFAD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA60632C-6B11-4715-AED7-C36836EFAD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA60632C-6B11-4715-AED7-C36836EFAD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA60632C-6B11-4715-AED7-C36836EFAD17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
