@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKare", "MutlakKare\Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegisimi", "KarakterDegisimi\KarakterDegisimi.csproj", "{B4057E36-FCD9-47A4-B506-6850E8E97032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessizHarf", "SessizHarf\SessizHarf.csproj", "{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B4057E36-FCD9-47A4-B506-6850E8E97032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4057E36-FCD9-47A4-B506-6850E8E97032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4057E36-FCD9-47A4-B506-6850E8E97032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

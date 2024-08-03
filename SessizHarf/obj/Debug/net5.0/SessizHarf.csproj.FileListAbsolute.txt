@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\ref\SessizHarf.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\bin\Debug\net5.0\SessizHarf.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\ref\SessizHarf.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\SessizHarf\obj\Debug\net5.0\SessizHarf.genruntimeconfig.cache
