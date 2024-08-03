@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj": {}
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj": {}
   },
   "projects": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj": {
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj",
+        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj",
         "projectName": "MutlakKare",
-        "projectPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj",
+        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\MutlakKare.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\obj\\",
+        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\MutlakKare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
