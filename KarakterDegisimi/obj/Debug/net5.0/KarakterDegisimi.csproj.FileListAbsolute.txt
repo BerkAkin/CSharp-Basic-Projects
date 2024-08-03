@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\ref\KarakterDegisimi.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\bin\Debug\net5.0\KarakterDegisimi.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\ref\KarakterDegisimi.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\KarakterDegisimi\obj\Debug\net5.0\KarakterDegisimi.genruntimeconfig.cache
