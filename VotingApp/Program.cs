@@ -6,7 +6,8 @@ namespace VotingApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            VoteController startProcess = new VoteController();
+            startProcess.startVotingProcess();
         }
     }
 }
