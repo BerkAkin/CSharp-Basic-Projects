@@ -12,6 +12,23 @@ namespace VotingApp
                 Console.WriteLine("\nKullanıcı Bulunmadı. Kayıt işlemi başlatılıyor");
                 ActionRegister();
             }
+            else
+            {
+                User user = Users.UserList.Find(u => u.Username.Equals(username));
+                if (user != null)
+                {
+                    if (user.VoteStatus == true)
+                    {
+                        Console.WriteLine("Bu kişi oy vermiş");
+                        return;
+                    }
+                    else
+                    {
+                        user.VoteStatus = true;
+                    }
+
+                }
+            }
         }
         public static void ActionRegister()
         {
@@ -21,7 +38,7 @@ namespace VotingApp
             string password = Console.ReadLine();
             if (!string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password))
             {
-                User newUser = new User(username, password);
+                User newUser = new User(username, password, true);
                 Users.AddUser(newUser);
                 Console.WriteLine("Kayıt Başarılı");
             }
@@ -31,5 +48,6 @@ namespace VotingApp
             }
 
         }
+
     }
 }
