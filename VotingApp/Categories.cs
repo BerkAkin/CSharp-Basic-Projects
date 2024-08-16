@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace VotingApp
 {
@@ -18,13 +19,16 @@ namespace VotingApp
 
         public static void VoteToCategory(string cat)
         {
-            foreach (Category category in categories)
+            string cate = cat.ToUpper();
+            var category = categories.FirstOrDefault(c => c.Name == cate);
+            if (category != null)
             {
-                if (category.Name == cat)
+                category.VoteCount++;
+                totalVotes++;
+
+                foreach (var catg in categories)
                 {
-                    category.VoteCount++;
-                    totalVotes++;
-                    category.Percent = (category.VoteCount / totalVotes) * 100;
+                    catg.Percent = totalVotes > 0 ? (double)catg.VoteCount / totalVotes * 100 : 0.0;
                 }
             }
         }
