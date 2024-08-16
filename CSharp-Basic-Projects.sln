@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegisimi", "Karakte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessizHarf", "SessizHarf\SessizHarf.csproj", "{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingApp", "VotingApp\VotingApp.csproj", "{D3A2F02D-DBAE-4EFC-BC99-90F3FD3AE51E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEC00CD0-1513-458E-BAB4-EF77BBC2D41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A2F02D-DBAE-4EFC-BC99-90F3FD3AE51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A2F02D-DBAE-4EFC-BC99-90F3FD3AE51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A2F02D-DBAE-4EFC-BC99-90F3FD3AE51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A2F02D-DBAE-4EFC-BC99-90F3FD3AE51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
