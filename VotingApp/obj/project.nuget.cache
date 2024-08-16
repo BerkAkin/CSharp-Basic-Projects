@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8R2e1PfnCUaSDGonWbReEkcnn7wsF4iBghA3JWBmF0cA3j8sptq8YKn4UqpgWdKQ9uporiVUrjyvATUqjcYFMA==",
+  "dgSpecHash": "DCWf2p442YmzW2oKKHggdpv/+BYJhslKbEfK28C6ODGqv22AgKt8TSByi9vrh8XBz47P26RXXa8yztZRtGXi5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
+  "projectFilePath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
