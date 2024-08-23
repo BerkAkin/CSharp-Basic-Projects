@@ -23,6 +23,15 @@ namespace ATM
             this._balance = 0;
         }
 
+        public User(string name, string surname, int accountNumber, int Password)
+        {
+            this._name = name;
+            this._surname = surname;
+            this._accountNum = accountNumber;
+            this._password = Password;
+            this._balance = 0;
+        }
+
         private int AccountNumCreator()
         {
             Random random = new Random();
