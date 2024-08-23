@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ref\ATM.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\bin\Debug\net5.0\ATM.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ref\ATM.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\ATM\obj\Debug\net5.0\ATM.genruntimeconfig.cache
