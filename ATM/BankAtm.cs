@@ -1,6 +1,4 @@
 using System;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 
 namespace ATM
 {
@@ -9,7 +7,7 @@ namespace ATM
         private bool _loggedIn = false;
         private int _loggedInUserAccNum = 0;
 
-        //banka işlemleri başlamalı
+
         public void userLogin()
         {
             if (isLogged())
@@ -23,6 +21,7 @@ namespace ATM
                 else
                 {
                     Console.WriteLine("Hatalı Bir Seçim Yaptınız. Sistem Kapatılıyor.");
+                    FileLogger.SetFraudLogs("Giriş Denemesi Hatalı Gerçekleşti");
                 }
 
             }
@@ -40,11 +39,13 @@ namespace ATM
                 {
                     this._loggedIn = true;
                     this._loggedInUserAccNum = user.AccountNumber;
-                    //burda banka işlemlerini başlatmak gerekiyor artık
-                    Bank.startProcess();
+                    FileLogger.SetTransactionLogs("Kullanıcı Girişi Başarılı Oldu");
+                    Bank.startProcess(user);
                 }
                 else
                 {
+                    FileLogger.SetFraudLogs("Giriş Denemesi Hatalı Gerçekleşti");
+
                     Console.WriteLine("Kullanıcı Bulunamadı");
                 }
 
@@ -57,6 +58,8 @@ namespace ATM
             this._loggedIn = false;
             this._loggedInUserAccNum = 0;
             Console.WriteLine("Başarıyla Çıkış Yapıldı.");
+            FileLogger.SetTransactionLogs("Kullanıcı Çıkış Yaptı");
+
         }
 
         public bool isLogged()
@@ -68,7 +71,7 @@ namespace ATM
             else
             {
                 return false;
-                //giriş işlemini yeniden yap ve sisteme log düş kullanıcı hatalı giriş yaptı diye
+
             }
 
         }
