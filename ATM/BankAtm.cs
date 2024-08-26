@@ -9,7 +9,7 @@ namespace ATM
         private bool _loggedIn = false;
         private int _loggedInUserAccNum = 0;
 
-        //sistemin başlayacağı nokta burası login ekranı ile başlayacak
+        //banka işlemleri başlamalı
         public void userLogin()
         {
             if (isLogged())
@@ -34,13 +34,14 @@ namespace ATM
                 Console.WriteLine();
                 Console.Write("Şifre: ");
                 int password = Convert.ToInt32(Console.ReadLine());
-
-                //kullanıcının hesap numarası bulunacak ve sonra aşağıdaki değerler değişecek;
                 User user = Users.FindUser(accountNum, password);
+
                 if (user != null)
                 {
                     this._loggedIn = true;
                     this._loggedInUserAccNum = user.AccountNumber;
+                    //burda banka işlemlerini başlatmak gerekiyor artık
+                    Bank.startProcess();
                 }
                 else
                 {
