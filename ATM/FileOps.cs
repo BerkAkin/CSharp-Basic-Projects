@@ -1,0 +1,7 @@
+namespace ATM
+{
+    class FileOps
+    {
+
+    }
+}
