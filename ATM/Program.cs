@@ -6,8 +6,8 @@ namespace ATM
     {
         static void Main(string[] args)
         {
-            BankAtm atm = new BankAtm();
-            atm.userLogin();
+            BankAtm.userLogin();
+            FileLogger.EndOfDay();
         }
     }
 }

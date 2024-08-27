@@ -39,5 +39,10 @@ namespace ATM
             return randomNumber;
         }
 
+        public void userLogout()
+        {
+
+        }
+
     }
 }
