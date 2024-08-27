@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.exe
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.deps.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\ref\BarkodGen.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\bin\Debug\net5.0\BarkodGen.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\ref\BarkodGen.dll
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.pdb
+C:\Users\berka\Desktop\CSharp-Basic-Projects\BarkodGen\obj\Debug\net5.0\BarkodGen.genruntimeconfig.cache
