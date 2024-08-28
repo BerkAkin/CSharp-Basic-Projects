@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj": {}
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj": {
+    "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
+        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
         "projectName": "VotingApp",
-        "projectPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
+        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\VotingApp.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\obj\\",
+        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Basic-Projects\\VotingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
